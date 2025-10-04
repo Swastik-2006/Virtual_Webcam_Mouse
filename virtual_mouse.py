@@ -102,4 +102,5 @@ while True:
 
 cap.release()
 cv2.destroyAllWindows()
-# to activate virtual environment run this on terminal→ .\venv\Scripts\activate
+
+
